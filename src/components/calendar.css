@@ -1,0 +1,9 @@
+button.react-calendar__tile.react-calendar__month-view__days__day {
+  background-color: rgb(31, 211, 31);
+}
+button.react-calendar__tile.react-calendar__month-view__days__day {
+  color: violet;
+}
+button.react-calendar__tile.react-calendar__month-view__days__day.react-calendar__month-view__days__day--weekend {
+  color: black;
+}
